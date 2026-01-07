@@ -3,3 +3,4 @@ __pycache__/
 *.cbm
 .env
 catboost_info/
+data/*.csv
