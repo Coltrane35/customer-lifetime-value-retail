@@ -1,3 +1,14 @@
+## Business Use Case
+
+This project demonstrates a complete **Customer Lifetime Value (CLV)** pipeline
+for an e-commerce business based on transactional data.
+
+**Business goals:**
+- Identify high-value customers
+- Segment customers using RFM analysis
+- Predict future customer value (CLV)
+- Support marketing, retention and budget allocation decisions
+
 # Customer Lifetime Value (CLV) Prediction for E-commerce
 
 Business-oriented data science project focused on customer segmentation and lifetime value prediction for e-commerce companies.
@@ -45,4 +56,16 @@ Online Retail transactional dataset (UK-based e-commerce).
 - Revenue forecasting
 
 ## Tech Stack
-Python, Pandas, NumPy, CatBoost, Matplotlib
+- Python
+- Pandas, NumPy
+- CatBoost
+- Scikit-learn
+- Matplotlib / Seaborn
+
+## Next steps
+
+- Predictive CLV modeling
+
+- Advanced customer clustering
+
+- Integration with marketing data
